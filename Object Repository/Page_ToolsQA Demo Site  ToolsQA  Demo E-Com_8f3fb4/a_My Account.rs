@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_My Account</name>
+   <tag></tag>
+   <elementGuidId>21f84a38-d6e9-4d72-b346-4939a848b9fc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='noo-site']/header/div/div/ul[2]/li[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>927f347e-1cdf-4589-9db4-afb6c0c2794f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://shop.demoqa.com/my-account/</value>
+      <webElementGuid>b3a07569-a429-4cf4-8a46-359bd6a4c9c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>My Account</value>
+      <webElementGuid>cd7a0aaa-32f4-41b1-b53e-7064e24e0bba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;noo-site&quot;)/header[@class=&quot;noo-header fixed_top header-3 header-eff&quot;]/div[@class=&quot;noo-topbar&quot;]/div[@class=&quot;noo-container&quot;]/ul[@class=&quot;pull-right noo-topbar-right&quot;]/li[2]/a[1]</value>
+      <webElementGuid>54a761a4-a248-4487-be0e-e7500fcc9a83</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='noo-site']/header/div/div/ul[2]/li[2]/a</value>
+      <webElementGuid>b1340e21-99c7-4a12-aed5-c6e733050102</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'My Account')]</value>
+      <webElementGuid>fbb8dd25-ecce-4af8-b675-2ba25b0e7315</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Wishlist'])[1]/following::a[1]</value>
+      <webElementGuid>b0965436-483c-4d49-b64b-97e7eb422ccf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='+(099) 999 - 9999'])[1]/following::a[2]</value>
+      <webElementGuid>9641b6a2-c1da-4c36-85b1-308d14dfeca1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Checkout'])[1]/preceding::a[1]</value>
+      <webElementGuid>51db373f-3792-42e8-a6a3-245589dedcf6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='My Account']/parent::*</value>
+      <webElementGuid>f988e40b-b2d9-4603-b4db-96377ab021e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://shop.demoqa.com/my-account/')]</value>
+      <webElementGuid>3929259a-c512-48a3-9a36-97504fac6e4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ul[2]/li[2]/a</value>
+      <webElementGuid>61929642-3ab9-4471-936b-3548d580ffe9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://shop.demoqa.com/my-account/' and (text() = 'My Account' or . = 'My Account')]</value>
+      <webElementGuid>f546cc5c-97c2-4c5b-b0f3-2e51c610c26e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

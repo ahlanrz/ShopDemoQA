@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Hello Kanslay (not Kanslay Log out)</name>
+   <tag></tag>
+   <elementGuidId>7349ab84-909f-40cc-851c-4f2101a07ca9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//article[@id='post-8']/div/div/div/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>ddd0c9a4-dd5d-479d-aff0-90c4396a76a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+	Hello Kanslay (not Kanslay? Log out)</value>
+      <webElementGuid>0bead456-891b-41cf-9602-188a78c5899f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;post-8&quot;)/div[@class=&quot;entry-content&quot;]/div[@class=&quot;woocommerce&quot;]/div[@class=&quot;woocommerce-MyAccount-content&quot;]/p[1]</value>
+      <webElementGuid>9f2696fa-e968-43df-b001-4ea6b6c573f2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//article[@id='post-8']/div/div/div/p</value>
+      <webElementGuid>d264f22e-b493-43f7-bcdf-374a171bc379</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Logout'])[1]/following::p[1]</value>
+      <webElementGuid>373a6816-ea89-4245-b47f-5881976e60b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Account details'])[1]/following::p[1]</value>
+      <webElementGuid>6703ec5e-e808-4246-af74-8814132bb70d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Hello']/parent::*</value>
+      <webElementGuid>8637e721-b4eb-4547-bcc5-28d53a008335</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>033b3067-eec5-45f7-92f0-2b6addf1ac57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = '
+	Hello Kanslay (not Kanslay? Log out)' or . = '
+	Hello Kanslay (not Kanslay? Log out)')]</value>
+      <webElementGuid>7498abf5-fe52-4f9a-95a6-e0248aa9d86a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

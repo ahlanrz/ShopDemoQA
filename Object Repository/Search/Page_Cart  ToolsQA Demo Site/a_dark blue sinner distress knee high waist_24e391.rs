@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_dark blue sinner distress knee high waist_24e391</name>
+   <tag></tag>
+   <elementGuidId>0a1e65ca-336f-463c-85de-bd9de3c79876</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//article[@id='post-6']/div/div/form/table/tbody/tr[3]/td[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>42430f5b-6cdf-41eb-95f9-ac5956100b9f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://shop.demoqa.com/product/dark-blue-sinner-distress-knee-high-waist-skinny-jeans/?attribute_pa_color=dark-blue&amp;attribute_pa_size=36</value>
+      <webElementGuid>35a298b9-52bd-4619-bada-616e8e8fd135</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>dark blue sinner distress knee high waist skinny jeans - Dark Blue</value>
+      <webElementGuid>d93934aa-2aec-4a4c-a82c-4049c0aa8852</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;post-6&quot;)/div[@class=&quot;entry-content&quot;]/div[@class=&quot;woocommerce&quot;]/form[1]/table[@class=&quot;shop_table shop_table_responsive cart&quot;]/tbody[1]/tr[@class=&quot;cart_item&quot;]/td[@class=&quot;product-name&quot;]/a[1]</value>
+      <webElementGuid>1984960d-e076-497e-96d6-92135a2270e0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//article[@id='post-6']/div/div/form/table/tbody/tr[3]/td[2]/a</value>
+      <webElementGuid>acfb241b-a410-468c-bd1d-2877ab1c7aeb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'dark blue sinner distress knee high waist skinny jeans - Dark Blue')]</value>
+      <webElementGuid>064167fa-3af8-4f73-86d6-42c10c2faa7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='₹'])[10]/following::a[3]</value>
+      <webElementGuid>bcfaffe7-4d26-479e-a105-3d418bc2b9ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='QTY'])[2]/following::a[3]</value>
+      <webElementGuid>230b95d5-f1dd-4dac-86d0-b7d384f1e135</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Size:'])[3]/preceding::a[1]</value>
+      <webElementGuid>71ee1a3c-b551-49c5-ae53-a0540d4ce997</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='₹'])[11]/preceding::a[1]</value>
+      <webElementGuid>b5243ade-e233-46f3-ac62-466c30a2ed5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='dark blue sinner distress knee high waist skinny jeans - Dark Blue']/parent::*</value>
+      <webElementGuid>72fc6af3-2d00-46fe-936f-44bd21d1f97a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://shop.demoqa.com/product/dark-blue-sinner-distress-knee-high-waist-skinny-jeans/?attribute_pa_color=dark-blue&amp;attribute_pa_size=36')])[2]</value>
+      <webElementGuid>43b88882-b0ea-4373-ab50-b6e7a46871cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[3]/td[2]/a</value>
+      <webElementGuid>d6c7d484-fddf-4e07-9e87-aca03ce9c48e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://shop.demoqa.com/product/dark-blue-sinner-distress-knee-high-waist-skinny-jeans/?attribute_pa_color=dark-blue&amp;attribute_pa_size=36' and (text() = 'dark blue sinner distress knee high waist skinny jeans - Dark Blue' or . = 'dark blue sinner distress knee high waist skinny jeans - Dark Blue')]</value>
+      <webElementGuid>496fa9dd-84b3-4a80-9e55-b768d2e9bc8d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
